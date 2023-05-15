@@ -1,0 +1,15 @@
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\doi tien.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\doi tien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\doi tien.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\doi tien.AssemblyInfo.cs
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\doi tien.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quang Huy\doi tien\bin\Debug\net7.0\doi tien.exe
+C:\Users\Nguyen Quang Huy\doi tien\bin\Debug\net7.0\doi tien.deps.json
+C:\Users\Nguyen Quang Huy\doi tien\bin\Debug\net7.0\doi tien.runtimeconfig.json
+C:\Users\Nguyen Quang Huy\doi tien\bin\Debug\net7.0\doi tien.dll
+C:\Users\Nguyen Quang Huy\doi tien\bin\Debug\net7.0\doi tien.pdb
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\doi tien.dll
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\refint\doi tien.dll
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\doi tien.pdb
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\doi tien.genruntimeconfig.cache
+C:\Users\Nguyen Quang Huy\doi tien\obj\Debug\net7.0\ref\doi tien.dll
